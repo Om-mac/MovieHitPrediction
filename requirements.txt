@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost==1.7.6
+joblib
+rapidfuzz
+transformers
+torch
+streamlit
+shap
+matplotlib
+seaborn
+pyarrow
